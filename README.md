@@ -1,2 +1,2 @@
 # FaynemeApp
-Hackathon2023
+Image to text detection using python. 
